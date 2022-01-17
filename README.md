@@ -14,9 +14,9 @@ By the end of this Next.js cookbook, you'll have the solutions necessary to desi
 
 ---
 
-My general idea: The book should be created as a food reciepe book with separation by 3 big blocks plus additioanal stuff as things for dessert (deploy to cloud services and using headless CMS)
+My general idea: The book should be created as a food reciepe book with illustrations and separation by several big blocks plus additioanal stuff as things for "dessert" (deploy to cloud services and using headless CMS)
 
-## Table of contents (planed count of pages 300) 12 done
+## Table of contents (planed count of pages 300) 100 done
 
 Z. Contributors (2)
   1. About the authors (1)
@@ -34,7 +34,38 @@ I. Coffee. Good morning and lets start (7)
   3. Performance matters (3)
   4. Let's summarize (1)
   
-  
+II. NextJS for soft breakfast. Warming up (28)
+  1. Seting up your fist environment (5)
+  2. Your first run (2)
+  3. Setting up your first page (2)
+  4. Setting up several more pages (2)
+  5. Page changing tools (2)
+  6. More configurations with Webpack (5)
+  7. Test driven development. Tests first (9)
+    - Setting up testing environment (2)
+    - Your first test (2)
+    - Your first component with test-first way (5)
+  8. Summary (1)
+
+III. Next JS for hard breakfast. Authorisation without a sugar
+  1. Creating a component for authorisation. Mockup (5)
+  2. Tests first. Lets create test for component (5)
+  3. Following the test guide to create UI (5)
+  4. REST and GraphQL. Easy implementation
+    - Setting up the REST way of getting data. Services and functions (7)
+    - Setting up Appollo for Graph QL. Models and classes. Start with local (7)
+  5. Comparing both ways of data modeling (6)
+    - REST way authorisation (3)
+    - GraphQL authorisation (3)
+  6. Using state managing tools for storing data (15)
+    - Installing Redux
+    - Implementing Redux
+    - Redux way for authorisation
+    - Tests first before first line of state
+    - Following the test guide to create a state for authorisation
+  7. Mixing all knowledge to finish the functionality (3)
+  8. Summary (1)
+
   
   
   
