@@ -1,5 +1,5 @@
+
 # Next JS. Cookbook
----
 Outline requirements:  
 1. The description of each and every chapter. 
 2. Subtopics of every chapter 
@@ -81,8 +81,4 @@ IV. Next JS. Daily lunch and healthy blogging (48)
     - Mixing all together (5)
   2. Summary (1)
     
-  
-  
-  
-  
-  
+ 
