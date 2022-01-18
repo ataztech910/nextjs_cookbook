@@ -26,7 +26,8 @@ Z. Preface (3)
   1. Who this book is for ? (1)
   2. What this book covers (1)
   3. How to use this book (1)
-   - Links to book files to download
+	
+	Links to book files to download
 
 I. Coffee. Good morning and lets start (7)
   1. What is a Next JS and why we need it ? (2)
@@ -42,9 +43,11 @@ II. NextJS for soft breakfast. Warming up (28)
   5. Page changing tools. Router (4)
   6. More configurations with Webpack (5)
   7. Test driven development. Tests first (9)
-    - Setting up testing environment (2)
-    - Your first test (2)
-    - Your first component with test-first way (5)
+
+    Setting up testing environment (2)
+    Your first test (2)
+    Your first component with test-first way (5)
+
   8. Summary (1)
 
 III. Next JS for hard breakfast. Authorisation without a sugar
@@ -52,21 +55,27 @@ III. Next JS for hard breakfast. Authorisation without a sugar
   2. Tests first. Lets create test for component (5)
   3. Following the test guide to create UI (5)
   4. REST and GraphQL. Easy implementation AWS Amplify
-    - Using Next JS as API server (2)
-    - NextJS API routing (2)
-    - Setting up for Graph QL. Models and classes (7)
-    - Setting up the REST way of getting data. Services and functions (7)
+    
+    Using Next JS as API server (2)
+    NextJS API routing (2)
+    Setting up for Graph QL. Models and classes (7)
+    Setting up the REST way of getting data. Services and functions (7)
+  
   5. Comparing both ways of data modeling (6)
-    - REST way authorisation (3)
-    - GraphQL authorisation (3)
+  
+    REST way authorization (3)
+    GraphQL authorization (3)
+  
   6. Using state managing tools for storing data (15)
-    - Installing Redux
-    - Implementing Redux
-    - Redux way for authorisation
-    - Tests first before first line of state
-    - Following the test guide to create a state for authorisation
-  7. Mixing all knowledge to finish the functionality (3)
-  8. Summary (1)
+  
+    Installing Redux
+    Implementing Redux
+    Redux way for authorization
+    Tests first before first line of state
+    Following the test guide to create a state for authorization
+	    
+  8. Mixing all knowledge to finish the functionality (3)
+  9. Summary (1)
 
 IV. Next JS. Daily lunch and healthy blogging (48)
   1. Creating a publishing system. Basics (1)
