@@ -16,7 +16,7 @@ By the end of this Next.js cookbook, you'll have the solutions necessary to desi
 
 My general idea: The book should be created as a food reciepe book with illustrations and separation by several big blocks plus additioanal stuff as things for "dessert" (deploy to cloud services and using headless CMS)
 
-## Table of contents (planed count of pages 250 - 325) 156 done
+## Table of contents (planed count of pages 250 - 325) 177 done
 
 Z. Contributors (2)
   1. About the authors (1)
@@ -92,7 +92,18 @@ IV. Next JS. Daily lunch and healthy blogging (48)
     
   2. Summary (1)
     
-  
+ V. NextJS. Afterlunch coffe and E2E testing (21)
+   1. E2E tests. Frameworks and comparing 
+
+    Cypress (5)
+    Playwright (5)
+    
+   2. Wrighting firs e2e test with Playwright  (3) 
+   3. Creating more tests for our application (7)
+   4. Summary (1)
+
+
+   		
   
   
   
