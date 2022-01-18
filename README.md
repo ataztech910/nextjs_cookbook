@@ -16,7 +16,7 @@ By the end of this Next.js cookbook, you'll have the solutions necessary to desi
 
 My general idea: The book should be created as a food reciepe book with illustrations and separation by several big blocks plus additioanal stuff as things for "dessert" (deploy to cloud services and using headless CMS)
 
-## Table of contents (planed count of pages 300) 156 done
+## Table of contents (planed count of pages 250 - 325) 156 done
 
 Z. Contributors (2)
   1. About the authors (1)
