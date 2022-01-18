@@ -69,16 +69,22 @@ III. Next JS for hard breakfast. Authorisation without a sugar
   8. Summary (1)
 
 IV. Next JS. Daily lunch and healthy blogging (48)
-  1. Creating a publising system. Basics (1)
-    - Mocking. List of articles and article description pages (2)
-    - Mocking the components (5)
-    - Tests first. API, components, store (15)
-    - Performance tools (2)
-    - Monitoring tools (2)
-    - Creating an API endpoints for application (5)
-    - Creating a pages to render (5)
-    - Creating a Redux store for application (5)
-    - Mixing all together (5)
+  1. Creating a publishing system. Basics (1)
+    
+    Mocking. List of articles and article description pages (2)
+    Mocking the components (5)
+    Tests first. API, components, store (15)
+    Performance tools (2)
+    Monitoring tools (2)
+    Creating an API endpoints for application (5)
+    Creating a pages to render (5)
+    Creating a Redux store for application (5)
+    Mixing all together (5)
+    
   2. Summary (1)
     
- 
+  
+  
+  
+  
+  
