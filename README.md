@@ -5,7 +5,7 @@ Outline requirements:
 2. Subtopics of every chapter 
 3. page count of every chapter.
 
-Audience: This book is recuired the base knoledge of ReactJS
+Audience: This book is recuired the base knowledge of ReactJS
 
 Request overview: The Next.js Cookbook contains React recipes optimized for performance, including hybrid rendering, route prefetching, automatic image optimization, and internationalization. The book covers comprehensive technical solutions for effectively utilizing Next.js in developing robust websites, blogs, forums, and web applications with an excellent user experience.
 
@@ -16,7 +16,7 @@ By the end of this Next.js cookbook, you'll have the solutions necessary to desi
 
 My general idea: The book should be created as a food reciepe book with illustrations and separation by several big blocks plus additioanal stuff as things for "dessert" (deploy to cloud services and using headless CMS)
 
-## Table of contents (planed count of pages 300) 100 done
+## Table of contents (planed count of pages 300) 156 done
 
 Z. Contributors (2)
   1. About the authors (1)
@@ -39,7 +39,7 @@ II. NextJS for soft breakfast. Warming up (28)
   2. Your first run (2)
   3. Setting up your first page (2)
   4. Setting up several more pages (2)
-  5. Page changing tools (2)
+  5. Page changing tools. Router (4)
   6. More configurations with Webpack (5)
   7. Test driven development. Tests first (9)
     - Setting up testing environment (2)
@@ -51,9 +51,11 @@ III. Next JS for hard breakfast. Authorisation without a sugar
   1. Creating a component for authorisation. Mockup (5)
   2. Tests first. Lets create test for component (5)
   3. Following the test guide to create UI (5)
-  4. REST and GraphQL. Easy implementation
+  4. REST and GraphQL. Easy implementation AWS Amplify
+    - Using Next JS as API server (2)
+    - NextJS API routing (2)
+    - Setting up for Graph QL. Models and classes (7)
     - Setting up the REST way of getting data. Services and functions (7)
-    - Setting up Appollo for Graph QL. Models and classes. Start with local (7)
   5. Comparing both ways of data modeling (6)
     - REST way authorisation (3)
     - GraphQL authorisation (3)
@@ -66,6 +68,19 @@ III. Next JS for hard breakfast. Authorisation without a sugar
   7. Mixing all knowledge to finish the functionality (3)
   8. Summary (1)
 
+IV. Next JS. Daily lunch and healthy blogging (48)
+  1. Creating a publising system. Basics (1)
+    - Mocking. List of articles and article description pages (2)
+    - Mocking the components (5)
+    - Tests first. API, components, store (15)
+    - Performance tools (2)
+    - Monitoring tools (2)
+    - Creating an API endpoints for application (5)
+    - Creating a pages to render (5)
+    - Creating a Redux store for application (5)
+    - Mixing all together (5)
+  2. Summary (1)
+    
   
   
   
