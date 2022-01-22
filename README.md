@@ -16,7 +16,7 @@ By the end of this Next.js cookbook, you'll have the solutions necessary to desi
 
 My general idea: The book should be created as a food reciepe book with illustrations and separation by several big blocks plus additioanal stuff as things for "dessert" (deploy to cloud services and using headless CMS)
 
-## Table of contents (planed count of pages 250 - 325) 177 done
+## Table of contents (planed count of pages 250 - 325) 177 + 5 done
 
 Z. Contributors (2)
   1. About the authors (1)
@@ -77,7 +77,7 @@ III. Next JS for hard breakfast. Authorisation without a sugar
   8. Mixing all knowledge to finish the functionality (3)
   9. Summary (1)
 
-IV. Next JS. Daily lunch and healthy blogging (48)
+IV. Next JS for Daily lunch and healthy blogging (48)
   1. Creating a publishing system. Basics (1)
     
     Mocking. List of articles and article description pages (2)
@@ -87,6 +87,7 @@ IV. Next JS. Daily lunch and healthy blogging (48)
     Monitoring tools (2)
     Creating an API endpoints for application (5)
     Creating a pages to render (5)
+    Creating a CRUD system for articles (5)
     Creating a Redux store for application (5)
     Mixing all together (5)
     
@@ -102,6 +103,7 @@ IV. Next JS. Daily lunch and healthy blogging (48)
    3. Creating more tests for our application (7)
    4. Summary (1)
 
+VI. 
 
    		
   
