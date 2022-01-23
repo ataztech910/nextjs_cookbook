@@ -55,11 +55,11 @@ II. Soft breakfast. Warming up (28)
 
 *In this chapter, we will set up a local environment for developing our application. Let's create several pages and organize navigation between these pages. And we will also deal with the basics of the modern approach to the development of TDD and we will write tests before proceeding to any logic module*
 
-III. Heavy breakfast. Authorisation without a sugar
+III. Heavy breakfast. Authorisation without a sugar (59)
   1. Creating a component for registration and authorisation. Mockup (5)
   2. Tests first. Lets create test for component (5)
   3. Following the test guide to create UI (5)
-  4. REST and GraphQL
+  4. REST and GraphQL (18)
     
     Using Next JS as API server (2)
     NextJS API routing (2)
@@ -71,13 +71,13 @@ III. Heavy breakfast. Authorisation without a sugar
     REST way authorization (3)
     GraphQL authorization (3)
   
-  6. Using state managing tools for storing data (15)
+  6. Using state managing tools for storing data (16)
   
-    Installing Redux
-    Implementing Redux
-    Redux way for authorization
-    Tests first before first line of state
-    Following the test guide to create a state for authorization
+    Installing Redux (1)
+    Implementing Redux (2)
+    Redux way for authorization (3)
+    Tests first before first line of state (5)
+    Following the test guide to create a state for authorization (5)
 	    
   8. Mixing all knowledge to finish the functionality (3)
   9. Summary (1)
@@ -104,7 +104,7 @@ IV. Daily lunch and healthy blogging (48)
  *In this chapter, we will continue to build our system and will need a number of interfaces to manage the creation and editing of data. As in the previous chapters, everything will begin with a description of the tests and only after that we will move on to developing the interfaces themselves*
 
  V. Afterlunch coffe and E2E testing (21)
-   1. E2E tests. Frameworks and comparing 
+   1. E2E tests. Frameworks and comparing (10)
 
     Cypress (5)
     Playwright (5)
@@ -115,10 +115,10 @@ IV. Daily lunch and healthy blogging (48)
 
 *In this chapter, we will look at systems for e2e testing and implement one of them in our application. Let's write tests for the pages we've already created*
 
-VI. Dinner is served into production
+VI. Dinner is served into production (59)
   1. Preparing project to go into production (5)
   2. Differrent ways of renedering. Comparsion (6)
-  3. AWS Amplify to host our application
+  3. AWS Amplify to host our application (38)
 
     Amplify Admin app (5)
     Creating a data models (5)
@@ -134,8 +134,8 @@ VI. Dinner is served into production
 
 *Like any other application, ours needs to be published on servers so that users can use the application. We will look at AWS cloud systems for publishing and full cycle project management.*
 
-VII. Night meals. I know you are not sleeping
-  1. More performance tips
+VII. Night meals. I know you are not sleeping (22)
+  1. More performance tips (15)
     
     Dynamically load the client-side to reduce first load (5)
     Defer load scripts (3)
